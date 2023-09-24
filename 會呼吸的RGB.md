@@ -30,9 +30,6 @@ void loop()
 
 ```
 
-
-## 實作2-2, RGB LED燈全彩模組, 分別讓LED輪流表現正紅、正綠、正藍，三個顏色，時間間隔1秒鐘。並且觀查LED顏色和波形或是電壓有什麼關連性?
-
 ### 電路 & Demo
 
 https://user-images.githubusercontent.com/89304181/190882877-a72f17e2-d526-42c4-8d3f-10a6bf39d54f.mp4
@@ -77,8 +74,6 @@ void loop()
 }
 
 ```
-
-## 實作2-3, 讓你的RGB LED燈全彩模組也可會"呼吸", LED顏色變化是否有像"呼吸的效果"和示波器的波形有什麼關連性?
 
 ### 電路 & Demo
 
@@ -182,9 +177,6 @@ void loop()
 }
 
 ```
-
-## 實作2-5: 按下按鍵, Green LED亮 & Red LED滅; 放開按鍵, Green LED滅 & Red LED亮. 想要再深入的同學可以試試喔. (思考方向: digitalRead(), digitalWrite(): 按鍵 +序列輸出 + LED)
-### 電路 & Demo
 
 https://user-images.githubusercontent.com/89304181/192082725-ca8efeee-9b69-4656-9eb5-91ce840082a3.mp4
 
